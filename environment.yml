@@ -1,0 +1,14 @@
+name: null
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - pip
+  - ta-lib
+  - numpy
+  - websocket-client
+
+  - pip:
+    - python-binance
